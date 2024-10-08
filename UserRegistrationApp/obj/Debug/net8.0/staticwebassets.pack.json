@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\wwwroot\\Reset Page\\resetPasswordPage.html",
+      "PackagePath": "staticwebassets\\Reset Page\\resetPasswordPage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UserRegistrationApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UserRegistrationApp.props",
+      "PackagePath": "build\\UserRegistrationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UserRegistrationApp.props",
+      "PackagePath": "buildMultiTargeting\\UserRegistrationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UserRegistrationApp.props",
+      "PackagePath": "buildTransitive\\UserRegistrationApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
