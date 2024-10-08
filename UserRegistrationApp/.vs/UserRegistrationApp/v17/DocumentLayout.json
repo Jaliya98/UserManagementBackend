@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\models\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:models\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\migrations\\20241008113639_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:migrations\\20241008113639_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\migrations\\20241003200041_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:migrations\\20241003200041_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\migrations\\20241008114448_test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:migrations\\20241008114448_test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\migrations\\20241008114548_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:migrations\\20241008114548_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\migrations\\20241008113408_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:migrations\\20241008113408_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|c:\\users\\asus\\desktop\\1\\usermanagementapi with verification link\\userregistrationapp\\migrations\\20241008112402_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368AC8F8-0549-4F24-8530-6A3FE3BA86D1}|UserRegistrationApp.csproj|solutionrelative:migrations\\20241008112402_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T22:54:11.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Models\\UserRegister.cs",
+              "RelativeDocumentMoniker": "Models\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Models\\UserRegister.cs",
+              "RelativeToolTip": "Models\\UserRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:18:20.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Models\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Models\\UserLoginDto.cs",
+              "RelativeToolTip": "Models\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:51:22.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EMailService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Services\\EMailService.cs",
+              "RelativeDocumentMoniker": "Services\\EMailService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Services\\EMailService.cs",
+              "RelativeToolTip": "Services\\EMailService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:38:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:50:17.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241008114448_test4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008114448_test4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241008114448_test4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008114448_test4.cs",
+              "RelativeToolTip": "Migrations\\20241008114448_test4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:44:48.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:19:09.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:32:12.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserReg.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Models\\UserReg.cs",
+              "RelativeDocumentMoniker": "Models\\UserReg.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Models\\UserReg.cs",
+              "RelativeToolTip": "Models\\UserReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:51:55.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241008114548_test5.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008114548_test5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241008114548_test5.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008114548_test5.cs",
+              "RelativeToolTip": "Migrations\\20241008114548_test5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:45:48.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241008113639_test3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008113639_test3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241008113639_test3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008113639_test3.cs",
+              "RelativeToolTip": "Migrations\\20241008113639_test3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:36:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241003200041_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241003200041_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241003200041_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241003200041_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241003200041_InitialCreate.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:29:25.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241008113408_test2.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008113408_test2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241008113408_test2.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008113408_test2.cs",
+              "RelativeToolTip": "Migrations\\20241008113408_test2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:34:08.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241008112402_test1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008112402_test1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241008112402_test1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1\\UserManagementAPI With Verification Link\\UserRegistrationApp\\Migrations\\20241008112402_test1.cs",
+              "RelativeToolTip": "Migrations\\20241008112402_test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:24:02.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
